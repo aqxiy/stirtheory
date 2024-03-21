@@ -1,10 +1,13 @@
 # stirtheory
-sTir Theory 
+Random: sTir Theory
 
-Ever wonder about the tantalizing prospect of consistently & efficiently achieving homogenization within a simple 50mL beaker on magnetic stirrer setup?
+Ultimate evolution eval:
 
-sTir Theory: Key to simple homogenization lies in dynamic, optimally integrative stir modulation. Beaker, water, stirbar proportions. Combine aforementioned with target to preempt formation of clusters and 
-otherwise & inclusive accelerate homogenization. 
+sTir Theory: Key to simple homogenization lies in dynamic, optimally integrative stir modulation. Beaker, water, stirbar proportions. Combine aforementioned with target to preempt formation of clusters and otherwise & inclusive accelerate homogenization.
+
+In simple terms:
+
+I think mixing solutions is a complex task best suited to a dynamic stirring protocol, because you want to avoid allowing clusters to stick together.
 
 Supporting:
 
