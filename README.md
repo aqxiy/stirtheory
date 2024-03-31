@@ -1,5 +1,5 @@
 # stirtheory
-Random: sTir Theory
+Random: sTir Theory (or abstracting and understanding the science of mixing heterogenous solutions to maximum efficacy, prerequiste but not limited to smooth consistency)  
 
 Ultimate evolution eval:
 
