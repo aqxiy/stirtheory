@@ -29,4 +29,4 @@ Influencing force probability pressure interaction essential
 
 There's a general approach, and one with video analysis & derived input
 
-real scientists' take (had concept of velocity modulation toward homogenization before encountering it): https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.7.073904
+### real scientists' take (had concept of velocity modulation toward homogenization before encountering it): https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.7.073904
